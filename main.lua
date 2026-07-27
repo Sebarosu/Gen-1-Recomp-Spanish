@@ -11,6 +11,7 @@ return function(mod)
   mod.content.text:patch("_AerodactylFossilText", "Fósil de AERODACTYL\011Un POKéMON primiti-\nvo y extraño.")
   mod.content.text:patch("_CeladonCityMansionSignText", "MANSIÓN AZULONA")
   mod.content.text:patch("_WhatText", "¿Qué?")
+  mod.content.text:patch("_YourNameIsText", "¡Así que te\nllamas {PLAYER}!")
 
   -- Objeto
   mod.content.objects:patch("ANTIDOTE", { name = "ANTÍDOTO"})
