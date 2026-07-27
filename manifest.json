@@ -1,0 +1,9 @@
+{
+  "id": "recomp español",
+  "name": "Gen 1 Recomp Traducción al Español",
+  "version": "0.1.0",
+  "entry": "main.lua",
+  "api": 2,
+  "category": "TRANSLATION",
+  "description": "Bienvenidos al mundo de Pokémon, ahora en Español."
+}
