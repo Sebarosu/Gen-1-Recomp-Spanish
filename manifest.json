@@ -1,7 +1,7 @@
 {
   "id": "recomp-spanish",
-  "name": "Edicion Roja",
-  "version": "0.1.0",
+  "name": "Edición Roja",
+  "version": "0.3.0",
   "api": 2,
   "entry": "main.lua",
   "profile": "content",
@@ -11,5 +11,5 @@
   "dependencies": [],
   "optional_dependencies": [],
   "conflicts": [],
-  "description": "Bienvenidos al mundo de Pokémon, ahora en Español."
+  "description": "Bienvenidos al mundo de POKéMON, ahora en ESPAÑOL."
 }
