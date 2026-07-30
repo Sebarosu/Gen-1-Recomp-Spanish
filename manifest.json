@@ -1,15 +1,9 @@
 {
-  "id": "recomp-spanish",
-  "name": "Edición Roja",
-  "version": "0.3.0",
-  "api": 2,
+  "id": "fakemon-g1",
+  "name": "FakeMon",
+  "version": "0.2.2",
   "entry": "main.lua",
-  "profile": "content",
-  "game_version": ">=0.0.0-dev <1.0.0",
-  "category": "GAMEPLAY",
-  "priority": 100,
-  "dependencies": [],
-  "optional_dependencies": [],
-  "conflicts": [],
-  "description": "Bienvenidos al mundo de POKéMON, ahora en ESPAÑOL."
+  "api": 2,
+  "category": "POKEMON",
+  "description": "New Pokémon from diverse rumours and stories by Sebarosu."
 }
