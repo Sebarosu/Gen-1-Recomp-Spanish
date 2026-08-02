@@ -139,7 +139,7 @@ return {
   ["GAME SPEED"] = "VEL. JUEGO",
   ["MODS"] = "",
   ["%d INSTALLED"] = "%d INSTALADOS",
-  ["CONTROLS"] = "CONRTOLES",
+  ["CONTROLS"] = "CONTROLES",
   ["A blinding FLASH\nlights the area!"] = "¡Un cegador\nDESTELLO iluminó\11la zona!",
   ["No SURFing here!"] = "¡Prohibido SURFEAR!",
   ["Nothing to CUT!"] = "¡No se puede CORTAR!",
