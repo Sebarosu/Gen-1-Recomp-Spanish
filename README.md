@@ -6,3 +6,5 @@ Plus, I'd like to add this project is too much for just a single person. Any hel
 
 - ESP: Esta traducción se hace con el objetivo principal de hacer llegar este port a más personas de la comunidad ya que la Comunidad Hispana de Pokémon es muy amplia en varios países del mundo.
 Es entendible que varios quieren probar esta recompilación pero la barrera del lenguaje es un obstaculo enorme que deben superar. Espero que esto sirva de ayuda para aquellos que tienen problemas con el inglés y solo quieren jugar. Además, me gustaría añadir que este proyecto es demasiado para una sola persona. Cualquier ayuda en este proyecto será agradecida.
+
+Agradecimientos a hernan0078 por los textos de la edición amarilla
